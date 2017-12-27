@@ -10,5 +10,6 @@ namespace Employee.Models
         public int EmpID { get; set; }
         public string EmpName { get; set; }
         public int Age { get; set; }
+        public string Address { get; set; }
     }
 }
